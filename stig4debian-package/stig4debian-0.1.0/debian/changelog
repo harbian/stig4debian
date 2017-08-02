@@ -1,0 +1,5 @@
+stig4debian (0.1.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #4 #7 #9 #10 #12)
+
+ -- Samson W <sccxboy@gmail.com>  Wed, 02 Aug 2017 06:06:16 -0400

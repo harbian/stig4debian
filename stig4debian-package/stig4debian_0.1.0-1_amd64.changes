@@ -1,0 +1,35 @@
+Format: 1.8
+Date: Wed, 02 Aug 2017 06:06:16 -0400
+Source: stig4debian
+Binary: stig4debian
+Architecture: source all
+Version: 0.1.0-1
+Distribution: unstable
+Urgency: medium
+Maintainer: Samson W <sccxboy@gmail.com>
+Changed-By: Samson W <sccxboy@gmail.com>
+Description:
+ stig4debian - DISA STIG for Debian 9 Porting from DISA RHEL 7 STIG V1 R1.
+Closes: 4
+Changes:
+ stig4debian (0.1.0-1) unstable; urgency=medium
+ .
+   * Initial release (Closes: #4 #7 #9 #10 #12)
+Checksums-Sha1:
+ 62337f0bc8ff0b4ac1c71ffbdf2b4ff449382d56 979 stig4debian_0.1.0-1.dsc
+ 177336a5f4a920cbb8ac9ee6ed0d7ee2c8a1180f 80210 stig4debian_0.1.0.orig.tar.gz
+ ef3e81ee0d9608245dc4a97837b6a63368b6485d 1752 stig4debian_0.1.0-1.debian.tar.xz
+ 0a618ca02a7072a71a3aa88fecf0d9a405114494 66196 stig4debian_0.1.0-1_all.deb
+ 3628425d08bdc1a722809586cc3eadb93ba62898 4481 stig4debian_0.1.0-1_amd64.buildinfo
+Checksums-Sha256:
+ f28ad0a7bdbb87c0d213cb4749ba14c008289c8f0c0f05c8289135e249f37cc6 979 stig4debian_0.1.0-1.dsc
+ ed2ab9170e9efac1dbc924a2c1c7fda00978eb06d71c353f535345f93ee3f142 80210 stig4debian_0.1.0.orig.tar.gz
+ 066446b78bb56a430674643a1f662d3804341dfe96440976001a6584e3e82d7c 1752 stig4debian_0.1.0-1.debian.tar.xz
+ 7aa599310ef0d50a92c8251e2459ea9924c09c9bdd0173fbcf98e414c9cfcb80 66196 stig4debian_0.1.0-1_all.deb
+ 0311a12703bc218b61a90a3a9e621c304ace16b50cfdf4b61480093a56e5aa3f 4481 stig4debian_0.1.0-1_amd64.buildinfo
+Files:
+ 5e588b687512b40f06507fd2593bc46e 979 admin optional stig4debian_0.1.0-1.dsc
+ 866c67e7a92a55f7f911e9f952a35122 80210 admin optional stig4debian_0.1.0.orig.tar.gz
+ 0b496aee529ab407fe120d8a78ce6f22 1752 admin optional stig4debian_0.1.0-1.debian.tar.xz
+ a05e0b8407d49eef718bb9f84fc4d63a 66196 admin optional stig4debian_0.1.0-1_all.deb
+ 326ce2d256335955b0a99dafea8a2abc 4481 admin optional stig4debian_0.1.0-1_amd64.buildinfo
