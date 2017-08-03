@@ -1,5 +1,11 @@
 stig4debian (0.1.0-1) unstable; urgency=medium
 
-  * Initial release (Closes: #4 #7 #9 #10 #12)
+  * The log path is incorrect in the -h output description. (Closes: #1)
+
+ -- Samson W <sccxboy@gmail.com>  Thu, 03 Aug 2017 14:08:16 -0800
+
+stig4debian (0.1.0-1) unstable; urgency=medium
+
+  * Initial release
 
  -- Samson W <sccxboy@gmail.com>  Wed, 02 Aug 2017 06:06:16 -0400

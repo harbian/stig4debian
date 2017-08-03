@@ -14,7 +14,7 @@ usage: /usr/bin/stig4debian [options]
   -v    Display version
   -h    Display help
 
-Report is output in /var/log/usr/bin/stig4debian/STIG-for-Debian-*.html
+  Report is output in /var/log/stig4debian/STIG-for-Debian-*.html
 
 STIG for Debian Compliance Checking Tools (v2.0)
 

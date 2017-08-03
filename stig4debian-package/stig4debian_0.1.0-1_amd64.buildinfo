@@ -4,17 +4,17 @@ Binary: stig4debian
 Architecture: all source
 Version: 0.1.0-1
 Checksums-Md5:
- 5e588b687512b40f06507fd2593bc46e 979 stig4debian_0.1.0-1.dsc
- a05e0b8407d49eef718bb9f84fc4d63a 66196 stig4debian_0.1.0-1_all.deb
+ 626db69a33fb272697c7042d1ee0eed4 979 stig4debian_0.1.0-1.dsc
+ 1d101dada97135b7bf7424be846d0cd4 66258 stig4debian_0.1.0-1_all.deb
 Checksums-Sha1:
- 62337f0bc8ff0b4ac1c71ffbdf2b4ff449382d56 979 stig4debian_0.1.0-1.dsc
- 0a618ca02a7072a71a3aa88fecf0d9a405114494 66196 stig4debian_0.1.0-1_all.deb
+ 4a136df9795896489d49e4f19ad580af0197256e 979 stig4debian_0.1.0-1.dsc
+ 800ac91196ed726d67c35055bfd95d8d67bd16c2 66258 stig4debian_0.1.0-1_all.deb
 Checksums-Sha256:
- f28ad0a7bdbb87c0d213cb4749ba14c008289c8f0c0f05c8289135e249f37cc6 979 stig4debian_0.1.0-1.dsc
- 7aa599310ef0d50a92c8251e2459ea9924c09c9bdd0173fbcf98e414c9cfcb80 66196 stig4debian_0.1.0-1_all.deb
+ 9ccd4b5cf0c492eb8e3227e187b066fa73b53693b67b90d6cd54a108d3d5cf42 979 stig4debian_0.1.0-1.dsc
+ da3118af3e3fc91a348a5f3d8eac3278ee1a76d4d654f7bf4762ad49b04e24ce 66258 stig4debian_0.1.0-1_all.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Wed, 02 Aug 2017 12:28:39 -0400
+Build-Date: Thu, 03 Aug 2017 02:11:33 -0400
 Installed-Build-Depends:
  autoconf (= 2.69-10),
  automake (= 1:1.15-6),
@@ -158,4 +158,4 @@ Installed-Build-Depends:
 Environment:
  DEB_BUILD_OPTIONS="parallel=8"
  LANG="en_US.UTF-8"
- SOURCE_DATE_EPOCH="1501668376"
+ SOURCE_DATE_EPOCH="1501798096"

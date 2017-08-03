@@ -20,7 +20,7 @@ usage: $0 [options]
   -v    Display version
   -h    Display help
 
-  Report is output in /var/log/$(basename $0)/STIG-for-Debian-*.html
+Report is output in /var/log/$0/STIG-for-Debian-*.html
 
 STIG for Debian Compliance Checking Tools (v$VERSION)
 
