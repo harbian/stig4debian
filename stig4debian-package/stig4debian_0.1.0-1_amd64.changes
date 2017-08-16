@@ -16,17 +16,17 @@ Changes:
  .
    * The log path is incorrect in the -h output description. (Closes: #1)
 Checksums-Sha1:
- 4a136df9795896489d49e4f19ad580af0197256e 979 stig4debian_0.1.0-1.dsc
- 853b869d44a107b322a113f51b0f7c3ae3b12fe1 2492 stig4debian_0.1.0-1.debian.tar.xz
- 800ac91196ed726d67c35055bfd95d8d67bd16c2 66258 stig4debian_0.1.0-1_all.deb
- a5a17a0968f41c5b633f6ae0278be76c1a6508cd 4481 stig4debian_0.1.0-1_amd64.buildinfo
+ 64bee19f141127c6f231230a571ceddc5f0772f7 979 stig4debian_0.1.0-1.dsc
+ e3d050a7419f6d5397e8cda43f0bcd57b1e81cad 2760 stig4debian_0.1.0-1.debian.tar.xz
+ e609d69cb5b338c83e67228a06fe49e2df4d30b8 65120 stig4debian_0.1.0-1_all.deb
+ b53ecb6a46b4c7153bb44dc072eb5f04947d0a38 4481 stig4debian_0.1.0-1_amd64.buildinfo
 Checksums-Sha256:
- 9ccd4b5cf0c492eb8e3227e187b066fa73b53693b67b90d6cd54a108d3d5cf42 979 stig4debian_0.1.0-1.dsc
- 9266ba4da4adf7df548ef25ce0789578c476df83f543c17b48f2008a52eb04e1 2492 stig4debian_0.1.0-1.debian.tar.xz
- da3118af3e3fc91a348a5f3d8eac3278ee1a76d4d654f7bf4762ad49b04e24ce 66258 stig4debian_0.1.0-1_all.deb
- 660792a5173c8e2115d71c8413eba2f8db48382bc32ab83a44775b120ce8d98a 4481 stig4debian_0.1.0-1_amd64.buildinfo
+ b03fb5e3101fef848633a4e2ccec5cbe9af72d0f8adb8c062afa27b48f5413d5 979 stig4debian_0.1.0-1.dsc
+ 09e6de5fe160a7f60ba05b9a3361a95911f33d05b35d618bf7421ae43381c8e0 2760 stig4debian_0.1.0-1.debian.tar.xz
+ 44b6ed7537ea900e0d660a188a7e141dc3bc9d729e7dfcef9b23361e242d451b 65120 stig4debian_0.1.0-1_all.deb
+ 6cf2a705f35e120e1d33f05478fd54ba5f06a1d4d2cb5f3890b7648c17b87c20 4481 stig4debian_0.1.0-1_amd64.buildinfo
 Files:
- 626db69a33fb272697c7042d1ee0eed4 979 admin optional stig4debian_0.1.0-1.dsc
- d667ce1f8b1fe15300703a325f67ad23 2492 admin optional stig4debian_0.1.0-1.debian.tar.xz
- 1d101dada97135b7bf7424be846d0cd4 66258 admin optional stig4debian_0.1.0-1_all.deb
- aa9bf36b8bd7e82600214da255fa4ec7 4481 admin optional stig4debian_0.1.0-1_amd64.buildinfo
+ 50ebaea43d91c2539d1895a5bb7516e8 979 admin optional stig4debian_0.1.0-1.dsc
+ 79ab9a878af88a2f7db668339da838b2 2760 admin optional stig4debian_0.1.0-1.debian.tar.xz
+ 9c69ce7b2bc787df4f12a42e5b07cf19 65120 admin optional stig4debian_0.1.0-1_all.deb
+ 2d42ac6cf918506d92b84291a063efa2 4481 admin optional stig4debian_0.1.0-1_amd64.buildinfo

@@ -35,5 +35,5 @@ override_dh_install:
 	install -g root -o root -m 644 -p manual.txt  debian/stig4debian/usr/lib/stig4debian/
 	install -d debian/stig4debian/var/log/stig4debian/
 	install -d debian/stig4debian/usr/share/man/man1/
-	install -g root -o root -m 644 -p README.md debian/stig4debian/usr/share/man/man1/stig4debian.1
+	install -g root -o root -m 644 -p stig4debian.1 debian/stig4debian/usr/share/man/man1/stig4debian.1
 
