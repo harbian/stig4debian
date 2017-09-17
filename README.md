@@ -27,6 +27,20 @@ Ported from DISA RHEL 7 STIG
 # dpkg -i stig4debian_0.1.0-1_all.deb  
 ``` 
 
+## Install unsigned package
+
+### Check sha512sum 
+```
+$ sha512sum -c stig4debian_0.1.0-1_all.deb.sha512sum 
+stig4debian_0.1.0-1_all.deb: OK
+```
+
+### Install 
+
+```
+$ sudo dpkg -i stig4debian_0.1.0-1_all.deb
+```
+
 ## Uninstall 
 
 ```
